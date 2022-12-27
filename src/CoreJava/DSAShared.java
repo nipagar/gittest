@@ -1,5 +1,6 @@
 // hellooooo
 //nikita
+//team master
 package CoreJava;
 
 import java.util.LinkedList;
