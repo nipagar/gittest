@@ -1,4 +1,5 @@
 // hellooooo
+//nikita
 package CoreJava;
 
 import java.util.LinkedList;
